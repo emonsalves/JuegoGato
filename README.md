@@ -20,3 +20,5 @@ npm create vite@latest
 - Estilos y presentación: Se aplicaron estilos CSS para darle una apariencia atractiva al juego del gato, incluyendo el diseño del tablero, las celdas y los mensajes de ganador o empate.
 
 - En resumen, se desarrolló el juego del gato utilizando JavaScript, React, Vite y algunas características como useState, reutilización de componentes y localStorage. Se implementó la lógica del juego, la gestión del estado, la alternancia de turnos, la lógica de final de juego y los estilos para darle una apariencia atractiva. Además, se utilizó localStorage para almacenar el estado del juego y permitir que el juego persista en el navegador.
+
+Link live demo https://elgato.netlify.app
